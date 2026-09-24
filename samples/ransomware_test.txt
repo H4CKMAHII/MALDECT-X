@@ -1,0 +1,5 @@
+This is a harmless YARA testing file.
+
+Your files have been encrypted.
+Bitcoin payment is requested.
+Use the decrypt tool to recover your files.
